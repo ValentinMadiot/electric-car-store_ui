@@ -4,7 +4,7 @@
     </a>
     </br>  
     </br>  
-  <h3 align="center">⚡ eLuxe Motors &nbsp; — &nbsp; Voitures Électriques de Luxe</h3>  
+  <h3 align="center">🔋 eLuxe Motors &nbsp; — &nbsp; Voitures Électriques de Luxe</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
